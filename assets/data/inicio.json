@@ -1,0 +1,178 @@
+[
+    [
+        {
+            "type": "♜",
+            "color": "#000000"
+        },
+        {
+            "type": "♟",
+            "color": "#000000"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "♙",
+            "color": "#000000"
+        },
+        {
+            "type": "♖",
+            "color": "#000000"
+        }
+    ],
+    [
+        {
+            "type": "♞",
+            "color": "#000000"
+        },
+        {
+            "type": "♟",
+            "color": "#000000"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "♙",
+            "color": "#000000"
+        },
+        {
+            "type": "♘",
+            "color": "#000000"
+        }
+    ],
+    [
+        {
+            "type": "♝",
+            "color": "#000000"
+        },
+        {
+            "type": "♟",
+            "color": "#000000"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "♙",
+            "color": "#000000"
+        },
+        {
+            "type": "♗",
+            "color": "#000000"
+        }
+    ],
+    [
+        {
+            "type": "♛",
+            "color": "#000000"
+        },
+        {
+            "type": "♟",
+            "color": "#000000"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "♙",
+            "color": "#000000"
+        },
+        {
+            "type": "♕",
+            "color": "#000000"
+        }
+    ],
+    [
+        {
+            "type": "♚",
+            "color": "#000000"
+        },
+        {
+            "type": "♟",
+            "color": "#000000"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "♙",
+            "color": "#000000"
+        },
+        {
+            "type": "♔",
+            "color": "#000000"
+        }
+    ],
+    [
+        {
+            "type": "♝",
+            "color": "#000000"
+        },
+        {
+            "type": "♟",
+            "color": "#000000"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "♙",
+            "color": "#000000"
+        },
+        {
+            "type": "♗",
+            "color": "#000000"
+        }
+    ],
+    [
+        {
+            "type": "♞",
+            "color": "#000000"
+        },
+        {
+            "type": "♟",
+            "color": "#000000"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "♙",
+            "color": "#000000"
+        },
+        {
+            "type": "♘",
+            "color": "#000000"
+        }
+    ],
+    [
+        {
+            "type": "♜",
+            "color": "#000000"
+        },
+        {
+            "type": "♟",
+            "color": "#000000"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "♙",
+            "color": "#000000"
+        },
+        {
+            "type": "♖",
+            "color": "#000000"
+        }
+    ]
+]

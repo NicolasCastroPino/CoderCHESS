@@ -1,0 +1,33 @@
+[
+    {
+        "nombreColor": "Verde",
+        "light": "#eeeed2",
+        "dark": "#769656"
+    },
+    {
+        "nombreColor": "Marron",
+        "light": "#f0d9b5",
+        "dark": "#b58863"
+    },
+    {
+        "nombreColor": "Azul",
+        "dark": "#7296ad",
+        "light": "#d7e2e8"
+        
+    },
+    {
+        "nombreColor": "Claro",
+        "light": "#dcdcdc",
+        "dark": "#ababab"
+    },
+    {
+        "nombreColor": "Naranja",
+        "light": "#fce4b2",
+        "dark": "#d08b18"
+    },
+    {
+        "nombreColor": "Purpura",
+        "light": "#efefef",
+        "dark": "#8877b7"
+    }
+]

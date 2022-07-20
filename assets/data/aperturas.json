@@ -1,0 +1,4476 @@
+[
+    {
+        "nombre": "Apertura Española",
+        "explicacion": "La apertura de ajedrez de Ruy López, también conocida como la apertura española, es una de las aperturas de ajedrez más antiguas y populares de la historia. La inauguración lleva el nombre de un sacerdote español del siglo XVI, Ruy López de Segura. En 1561, Ruy López de Segura publicó un libro sobre ajedrez llamado Libro del Ajedrez en el que apareció la Ruy López. Desde entonces, todos los Campeones del Mundo de Ajedrez lo han utilizado con regularidad y, a menudo, es una de las primeras aperturas que aprenden los principiantes.",
+        "movimientos": [
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ]
+        ]
+    },
+    {
+        "nombre": "Apertura Italiana",
+        "explicacion":"Una de las mejores aperturas para los principiantes es la apertura Italiana. Es una opción de apertura bien estudiada y sólida para principiantes con ideas simples para respaldarla. La apertura Italiana normalmente comienza con e4 seguido de e5. La idea del blanco es ocupar el centro con el peón e, abriendo líneas para el alfil de casillas blancas.",
+        "movimientos": [
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    null,
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    },
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ]
+        ]
+    },
+    {
+        "nombre": "Apertura Escocesa",
+        "explicacion": "La Apertura escocesa (o Scotch Game) es una apertura de ajedrez para las blancas que comienza con 1.e4 e5 2.Cf3 Cc6 3.d4 exd4 4.Cxd4. El Scotch Opening se adapta a diferentes estilos de juego de ajedrez y puede ser jugado fácilmente por jugadores principiantes e intermedios de ajedrez. Si es lo suficientemente bueno para Garry Kasparov, uno de los los mejores jugadores de ajedrez de todos los tiempos para jugar al ajedrez, ¡seguramente es lo suficientemente bueno para todos los demás!",
+        "movimientos": [
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ]
+        ]
+    },
+    {
+        "nombre": "Defensa Nimzo-India",
+        "explicacion": "La Defensa nimzoindia es una apertura de ajedrez para las negras que surge después de los movimientos 1.d4 Cf6 2.c4 e6 3.Cc3 Ab4. Es una apertura de ajedrez hipermoderna adecuada tanto para principiantes como para jugadores avanzados. La Defensa Nimzo-India puede ayudarlo a lograr una estrategia de ajedrez sólida y es uno de los mejores aperturas de ajedrez para las negras.",
+        "movimientos": [
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    },
+                    null,
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null
+                ],
+                [
+                    {
+                        "type": "♝",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    },
+                    null,
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♛",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    {
+                        "type": "♕",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♚",
+                        "color": "#000000"
+                    },
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♔",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♞",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♗",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♘",
+                        "color": "#000000"
+                    }
+                ],
+                [
+                    {
+                        "type": "♜",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♟",
+                        "color": "#000000"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "type": "♙",
+                        "color": "#000000"
+                    },
+                    {
+                        "type": "♖",
+                        "color": "#000000"
+                    }
+                ]
+            ]
+        ]
+    }
+]
